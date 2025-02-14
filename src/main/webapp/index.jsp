@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 style="color: black;">Java Home Docker CI/CD Pipeline</h2>
+<h2 style="color: black;">Welcome to Bengaluru</h2>
 </body>
 </html>
